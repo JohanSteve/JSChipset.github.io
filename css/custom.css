@@ -1,0 +1,20 @@
+/* custom css goes here */
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.tm-footer{
+	padding-top:20px;
+	padding-bottom: 20px;
+	line-height: 40px;
+}
+.tm-home-slideshow.uk-slideshow-fullscreen{
+	max-height: calc(100vh - 80px);
+}
+.tm-button-huge{
+	padding: 10px 15px;
+	line-height: 40px;
+	font-size: 36px;
+}
+.uk-overlay-fade{
+	opacity: 1;
+}
